@@ -1,5 +1,5 @@
 package com.sample;
 
-public class Calculator {
-
+public interface Calculator {
+	
 }
